@@ -34,7 +34,7 @@
   <div style="display: inline_block"><br>
   <a href = "raimundoquilenguesbras@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/raimundo-br%C3%A1s-a52812234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-   %230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://github.com/wilsonbraz1" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://github.com/Raimundobraz2" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://www.instagram.com/wilson_bras1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
      <a href="https://www.behance.net/raimundbrs/" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
   </div>
