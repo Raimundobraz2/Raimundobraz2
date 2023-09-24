@@ -16,7 +16,8 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp; 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp; 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp; 
- 
+![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp; 
+
 🎨 Habilidade em Designer de experincia do usuário é  Interface do usuário (UI/UX Designer)
 
 👩‍💻 IDE
@@ -24,8 +25,6 @@
 ![Apache netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-)&nbsp; 
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp; 
 ![Visual Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp; 
- 
-![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp; 
 
 [![Raimundobras2](https://github-readme-stats.vercel.app/api?username=Raimundobraz2&show_icons=true&theme=dracula)](https://github.com/Raimundobraz2)
 <br>
