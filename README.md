@@ -53,3 +53,7 @@ Skill in User Experience (UX) and User Interface (UI) Design
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Raimundobraz2/count.svg" alt="Contador de Visitantes" />
+</div>
